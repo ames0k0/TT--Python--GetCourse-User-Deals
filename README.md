@@ -1,5 +1,9 @@
 # Usage Example
 
+>[!IMPORTANT]
+> Added `test.py` with a test data: `test_data/*.json`</br>
+> Try `python test.py -e [email]` first !!!
+
 ```bash
 uv sync
 # or
