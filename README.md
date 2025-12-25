@@ -1,4 +1,4 @@
-# Usage Example
+# CLI для получения заказов пользователя
 
 >[!IMPORTANT]
 > Added `test.py` with a test data: `test_data/*.json`</br>
